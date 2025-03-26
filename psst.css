@@ -1,5 +1,5 @@
 html {
-  font-family: sans-serif;
+  font-family: fantasy;
   font-size: max(3ch, 3vmax + 2vmin);
   line-height: 1.618;
 }
@@ -46,12 +46,7 @@ a {
 }
 
 p { padding-inline: .146rem }
-samp { padding-inline: 1vw; font-size: 1.236em }
-small { display: block; font-size: 1ch }
-sub { all: unset }
-sup { all: unset; font-size: 1.236em }
 s { text-decoration-style: wavy }
-em { text-shadow: 1vw -1vh 3pc var(--tape-bluv) }
 a:hover { text-decoration-style: double }
 :any-link { text-decoration-style: dotted }
 
